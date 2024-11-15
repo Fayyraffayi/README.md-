@@ -1,5 +1,6 @@
 # README.md-
 # TUGAS PEMROGRAMAN PERTEMUAN 9
+![Praktikum5 flowchart](https://github.com/user-attachments/assets/72dd5663-3de3-4b50-bd61-22e8861e24ac)
 
 ![Cuplikan layar 2024-11-15 150938](https://github.com/user-attachments/assets/18766b99-10de-4b1d-83b0-662002f9f4e2)
 
